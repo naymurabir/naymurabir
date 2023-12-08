@@ -37,7 +37,7 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naymurabir&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=naymurabir)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naymurabir&theme=radical)](https://git.io/streak-stats)
 
 ## Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,js,c,dotnet,express,figma,linkedin,nodejs,mongodb,nextjs,nodejs,react,stackoverflow,tailwind,bootstrap,twitter,vercel,vite)](https://skillicons.dev)
