@@ -39,4 +39,5 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=naymurabir)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naymurabir&show_icons=true&theme=monokai)
 
