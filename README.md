@@ -1,5 +1,5 @@
 ![Full Stack Developer (MERN) / Software Engineer](https://i.ibb.co/CPV3NzZ/Blue-Black-Futuristic-Technology-Facebook-Cover-1.png)
-# Hi there 👋, Hi there 👋, I'm Naymur Rahman Abir
+# Hi there 👋, I'm Naymur Rahman Abir
 ## Full Stack Developer (MERN) / Software Engineer
 
 
@@ -16,7 +16,7 @@ My keen interest in Computer Science and Engineering has enabled me to develop a
 
 That enhanced my technological capacity and performance. However, I can assure you that I am a quick learner, adaptive as well as an energetic person.
 
-Skills: HTML5 / CSS3, Github / ES / API / JavaScript / JSON / Tailwind / Bootstrap / React / React Router / Firebase /  NodeJS / ExpressJS / MongoDB
+Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bootstrap / React / React Router / Firebase /  NodeJS / ExpressJS / MongoDB
 
 - 🔭 I’m currently working on a full stack project, named Bistro Boss Restaurant. And a Hostel Management site for a university / college. 
 - 🌱 I’m currently learning Mongoose, NextJS,  
