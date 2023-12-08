@@ -1,6 +1,7 @@
-### Hi there 👋, Hi there 👋, I'm Naymur Rahman Abir
-#### Full Stack Developer (MERN) / Software Engineer
 ![Full Stack Developer (MERN) / Software Engineer](https://i.ibb.co/CPV3NzZ/Blue-Black-Futuristic-Technology-Facebook-Cover-1.png)
+# Hi there 👋, Hi there 👋, I'm Naymur Rahman Abir
+## Full Stack Developer (MERN) / Software Engineer
+
 
 As I Studied Computer Science & Engineering, I am Learning MERN stack Development for implementing a web-based application. I have knowledge and experience in JavaScript and Collection Framework. I have a comprehensive understanding of the Software Development Life Cycle. 
 
