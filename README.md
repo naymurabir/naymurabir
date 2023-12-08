@@ -33,13 +33,14 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir)](https://github.com/naymurabir/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&layout=pie)](https://github.com/naymurabir/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&hide_progress=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naymurabir&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=naymurabir)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&layout=pie)](https://github.com/naymurabir/github-readme-stats)
 
 
 
