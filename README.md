@@ -32,10 +32,11 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 [![trophy](https://github-profile-trophy.vercel.app/?username=naymurabir)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&hide_progress=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naymurabir&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=naymurabir)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&hide_progress=true)
+
 
