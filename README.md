@@ -37,5 +37,7 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=naymurabir)  
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naymurabir)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
