@@ -58,7 +58,7 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir)](https://github.com/naymurabir/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&layout=pie)](https://github.com/naymurabir/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&theme=radical&layout=pie)](https://github.com/naymurabir/github-readme-stats) 
 
 ## Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,js,c,dotnet,express,figma,linkedin,nodejs,mongodb,nextjs,nodejs,react,stackoverflow,tailwind,bootstrap,twitter,vercel,vite,vscode)](https://skillicons.dev)
