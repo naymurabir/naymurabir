@@ -38,8 +38,7 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naymurabir&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naymurabir&theme=radical&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naymurabir&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naymurabir&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naymurabir&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naymurabir&theme=radical)
 
 --------------
 
