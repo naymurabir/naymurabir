@@ -55,7 +55,7 @@ Skills: HTML5 / CSS3, Github / ES, ES6 / API / JavaScript / JSON / Tailwind / Bo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naymurabir&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&theme=radical&layout=pie)](https://github.com/naymurabir/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&theme=radical)](https://github.com/naymurabir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&theme=radical&layout=pie)](https://github.com/naymurabir/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymurabir&theme=radical)](https://github.com/naymurabir/github-readme-stats)
 
 
 ## Languages and Tools: 
